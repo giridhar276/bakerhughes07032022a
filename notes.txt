@@ -1,0 +1,90 @@
+
+*** Everything in python is Object ***
+*** Every object contains methods ****
+
+number
+--------
+number can be integer or decimal or octal or hexa.
+
+val = 10
+aval = 34.3
+
+
+string
+--------
+string is defined in single or double or triple quotes.
+
+aname = 'python programming'
+bname = "scala programming"
+cname = """java programming"""
+
+
+list ( kind of array in C)
+----
+list contains set of elements.
+Elements can be set of numbers or strings or any combination.
+
+alist =[10,20,30,40]
+blist = ["java","oracle"]
+clist = [45,34.32,"java"]
+
+
+
+tuple
+-----
+tuple contains set of elements.
+Elements can be set of numbers or strings or any combination.
+
+atup = (10,34,"oracle",56.5)
+
+
+dictionary
+-------------
+dictionary contains elements in key:value pairs
+keys are string or number which are used to uniquely identify the value.
+values can be either number or string or list or tuple or dictionary or set or list of lists of any complex structure.
+
+
+syntax:    object = { key:value , key:value , key:value .... }
+           book   = {"chap1":10 ,"chap2":20 ,"chap3":30}
+           info   = {1:2,3:4,5:6}
+           bookinfo   = {"chap1":[10,"Rita","US"] ,"chap2":[20,"Gita","UK"] }
+
+
+
+set
+----
+set is UNORDERED collection of UNIQUE elements of SAME types.
+
+aset = {10,20,30,30,30}
+
+
+
+comments
+--------
+- single line comment
+# this is single line comment
+
+- multi line comment
+all the lines defined in between ''' and ''' are ignored by interpreter.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
