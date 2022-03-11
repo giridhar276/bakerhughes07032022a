@@ -281,7 +281,7 @@ default arguments
 keyword arguments
 variable length arguments
 
-
+lambda :
 
 library | module | package 
 ---------------------------------------
@@ -505,11 +505,25 @@ $ : match at the end of the string
 
 
 
+OOP - priciples   ( global principles)
+-------------------
+- reusability purpose
 
 
+-class
+-object
+-encapsulation
+-Inheritance
+-polymorphism
 
 
+class :   class is blueprint of the house.
+          Every class contains data members(variables) and member functions(methods).
 
+
+object :  Object is the instance of the class.
+
+self :  self is instance of the class
 
 
 
